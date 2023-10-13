@@ -7,5 +7,4 @@ int main() {
         i++;                        // I have to write the updation here inside the while loop //without this line the loop will be a infinite loop
     }
     return 0;
-    
 }
