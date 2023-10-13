@@ -19,5 +19,4 @@ int main() {
     return 0;
 }
 
-
 // in here we are doing everything in one loop
