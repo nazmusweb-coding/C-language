@@ -19,6 +19,5 @@ int main() {
         n--;                            // (post decrement)[...5,4,3,2,1] Updation,command to run the loop in reverse
     } while (n>=1);                     // run the loop till n is less than or equal to 1.
 
-    return 0;
-    
+    return 0;    
 }
