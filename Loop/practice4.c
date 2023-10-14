@@ -12,7 +12,6 @@ int main()
         if (n % 2 != 0) {                       // if value of n is odd. this do-while loop will break and the program will stop.
             break;
         }
-
     } while (1);                                // made an infinit loop my giving the condition 1(true). only one way to escape this loop is to break or stop program by the user
     printf("Thank you");                        // coming out of the loop it will print this and close the program.
     return 0;
