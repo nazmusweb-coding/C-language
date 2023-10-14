@@ -1,4 +1,5 @@
 // Print the sum of first n Natural Numbers, n=4, also print them in reverse.(using dowhileloop)
+
 #include<stdio.h>
 int main() {
     int i = 1;                          // declared i variable with value of 1.
