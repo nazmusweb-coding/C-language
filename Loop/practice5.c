@@ -1,4 +1,4 @@
-// Print the table of a number input by the user. n=2
+// Print the table of a number input by the user.
 #include<stdio.h>
 int main () {
     int n;
