@@ -1,5 +1,5 @@
 // Write a C program to swap first and last digits of a number.
-// work on pregress
+// work in pregress
 #include <stdio.h>
 void main (void) {
     int n, x, sum = 0, temp;
