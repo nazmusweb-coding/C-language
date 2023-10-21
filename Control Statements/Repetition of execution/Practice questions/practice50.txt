@@ -1,0 +1,88 @@
+Logic explanation for practice50.c
+
+Question:
+Write a C program to find two’s complement of a binary number
+
+Explaining the logic for practice50.c
+1. explaining logics between line (21-26):
+    [24]-It will take string input in binary variable and return it to main funtion's main source
+    [25]-this line will count length of string stored just now in binary variable 
+    and length of string stored in binary will be stored in count pointer and it
+    will be reuturned to main function's count variable.
+
+2. explaining logics between line (28-42):
+    [29]-Running the loop, till the index number is nth;
+    [30-32]using if statement, if value of binary array's n index value is '1' it will be
+    replaced by '0' in the same index value;
+
+    [33-35]using else if statement, if value of binary array's n index value is '0' it will
+    be replaced by '1' in the same index value;
+
+    [36-39]using else statement, if the value of binary array's n index value is neither '0' nor '1',
+    it means it is not a binary number because binary number only contains 1 and 0; so it will print
+    Invalid input, and break statement will break the loop.
+
+    [41]- after assigning reverse index value in onescomplement index value, this line will add a full stop in this array using '\0'
+
+    The main logic is to reversely assign binary number in onescomplement
+    for example:
+    binary number  = 01101011
+    1's complement = 10010100 [completely reverse of binary number]
+
+3. explaining logics between line (55-64):
+    [55]-Running the loop, till the index number is 0;
+    [56-59]using if statement, if value of onescomplement array's nth index =='0'
+    value of twoscomplement array with same index will be changed by '1' and
+    it will break the loop just by replacing value of twoscomplement array's same index;
+    rest of the pre index values will be same like the onescomplement array indexs value;
+    
+    for example:
+    1's complement = 10010100
+    2's complement = 10010101 here 0 is  replaced by 1, rest of them are same as 1's complement;
+    
+    in real life math:
+    1's complement = 10010100
+    Adding 1       =      + 1
+    2's complement = 10010101 [to get 2's complement we have to add 1 with 1's complement]
+    
+    [60-62]using else if statement, if value of onescomplement array's nth index == '1'
+    value of twoscomplement array with same index will be changed by '0' and
+    after replacing '1' with '0', the loop will go to if statement and check if there is any '0'
+    in value of onescomplement array with (n-1)th index and it will be changed by '1', after replacing 0 with
+    1, break statement will break the loop. and rest of the pre index values will be same like the onescomplement
+    array indexs value
+
+    for example:
+    1's complement = 10010101
+    2's complement = 10010110
+
+    in real life math:
+    1's complement = 10010101
+    Adding 1       =      + 1
+    2's complement = 10010110 [to get 2's complement we have to add 1 with 1's complement]
+
+    here loop run 2 times, at first it executed else if statement's code. nth index value '1' replaced by '0'.
+    at second time, it executed if statement's code. nth index value '0' replaced by '1'.
+    and break statement will break the loop, so after replacing these index value, rest of the pre index values
+    will be the same like onescomplement
+
+    [63]-Updatation for the loop, post decrement(count--);
+
+    The main logic is to change '0' with '1' and  break the  loop rest of the  pre index value will be the same;
+    and replacing '1' with '0' and will do so, until it finds '0' to replace with '1'. because only and and only
+    then it will be able to break the loop. Rest of the pre index values will be same as onescomplement pre index values;
+    
+    and for example of loop with 6 run times:
+    1's complement = 10011111
+    2's complement = 10100000
+                       |________________ after replacing 0 with 1 it broke the the loop and pre index values are same as onescomplement;
+
+4. explaining logics between line (70-75):
+    [70]-This function is for suppressing error
+    [71]-Running the loop, till the index number is equal to it's length;
+    [72]-It will assign '1' value in every index value so the array value is
+    case1[count] = '11111111'
+
+    only '11111111' is the case where my function will give incorrect twoscomplement
+    so in line [45]- i compared onescomplement with this case, if it finds true then
+    i print the result and reuturned 1 which will break the loop.
