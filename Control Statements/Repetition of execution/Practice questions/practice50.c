@@ -18,7 +18,7 @@ void main () {
 }
 /* For taking input and counting the length of the inputed binary number */
 void inPut(char *binary, int *count) {
-    printf("\n\n\nWelcome to a program which can calculate 1-999 bit two's complement\n\n");
+    printf("\n\n\nWelcome to a program which can calculate 1-999 digit two's complement\n\n");
     printf("Input binary number: ");
     scanf("%s", binary);
     *count = strlen(binary);
