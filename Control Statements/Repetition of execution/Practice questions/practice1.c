@@ -13,7 +13,6 @@ int main() {
     }
     return 0;
 }
-
 // same program using for
 //  for(int i = 0; i <= n; i++) {
 //     printf("%d\n", i);
