@@ -1,0 +1,14 @@
+Algorithm Conversion from Octal to Binary
+begin:
+    read(octal);
+    binary_constant[] ← 0, 1, 10, 11, 100, 101, 110, 111;
+    binary ← 0; rem ← 0; place ← 1;
+    While(octal > 0)
+    begin:
+        rem ← octal % 10;
+        binary ← (binary_constant[rem] * place) + binary;
+        octal ← octal / 10;
+        place ← place * 1000;
+    end;
+    write('Binary =' binary);
+end;
