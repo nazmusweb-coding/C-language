@@ -1,0 +1,76 @@
+S = {(R,R,R,R,|B,B,B)x(R,R,R,R,R,B,B,B,B)x(R,R,R,R,B,B,B,B)}
+S = {	(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RRR),(RRR),(RRR),(RRR),(RRB),(RRB),(RRB),(RRB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+		(RBR),(RBR),(RBR),(RBR),(RBB),(RBB),(RBB),(RBB),
+
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BRR),(BRR),(BRR),(BRR),(BRB),(BRB),(BRB),(BRB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB),
+		(BBR),(BBR),(BBR),(BBR),(BBB),(BBB),(BBB),(BBB)	}; |S| = 504(7x9x8)
+
+A = { USE Find tool to locate (RRBx80), (BRRx60), (RBRx64) }; |A| = 204(80+60+64)
+
+P(A) = |A|/|S| = 204/504 = 17/42;
+
+The probability is 17/42 that, the 3 balls drawn, 2 are red and 1 is black.
