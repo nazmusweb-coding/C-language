@@ -1,0 +1,7 @@
+
+S = { (BB), (BG), (GB), (GG) }
+now we know 1 is boy so both girl is't possible
+S = { (BB), (BG), (GB) }; |S| = 3
+A = { (BB) }; |A| = 1
+
+P(A) = |A|/|S| = 1/3
