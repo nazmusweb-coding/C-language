@@ -13,6 +13,7 @@ void pattern(int n)
 void main()
 {
     int n;
+    printf("Input n: ");
     scanf("%d", &n);
     pattern(n);
 }
