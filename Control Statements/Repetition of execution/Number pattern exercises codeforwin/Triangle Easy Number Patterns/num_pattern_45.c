@@ -1,21 +1,14 @@
 #include <stdio.h>
-void pattern(int n) {
-    int count = 1, print_count = 1;
+void pattern (int n) {
+    int count = 1;
     for (int i = 1; i <= n; i++)
     {
-        for (int j = 1; j <= count; j++, print_count++)
+        for (int j = 1; j <= i; j++, count++)
         {
-            if (print_count == 10)
-            {
-                print_count = 1;
-            }
-            
-            printf("%d ", print_count);
+            printf("%d ", count);
         }
-        count*=2;
         printf("\n");
     }
-    
 }
 int main () {
     int n;
