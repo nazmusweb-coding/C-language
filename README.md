@@ -40,7 +40,7 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 
 1. **Fork the Repository:**
    ```bash
-   git clone https://github.com/nazmusweb-coding/C-language.git
+   git clone https://github.com/your-username/C-language.git
    ```
 2. **Create a new branch for your feature:**
    ```bash
