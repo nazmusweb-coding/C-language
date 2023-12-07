@@ -57,7 +57,7 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 5. **Submit a Pull Request:**
    - Open a pull request on GitHub.
 
-Please follow the [contribution guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct) for more details.
+Please follow the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for more details.
 
 ##  Questions
 
