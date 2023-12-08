@@ -72,6 +72,10 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 
 Please follow the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for more details.
 
+## Usage
+
+If you find a code snippet or example that you want to use, simply navigate to the relevant folder and copy the code. You are free to use, modify, and integrate the code into your projects.
+
 ##  Questions
 
 If you have any questions or need support, feel free to [open an issue](https://github.com/nazmusweb-coding/C-language/issues/new) or [reach out](mailto:nazmusweb.official@gmail.com).
