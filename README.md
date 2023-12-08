@@ -32,8 +32,8 @@ The repository is organized into folders, each dedicated to a specific C program
 - `Strings`: Code snippets focusing on string operations.
 - `Structures`: Code snippets demonstrating the use of structures and their applications.
 - `FILE I/O`: Code snippets illustrating file input and output operations.
-- `Dynamic Memory Allocation`: Code snippets showcasing dynamic memory allocation and deallocation
-- `Online platform problem solving`: Codes related to problem solutions on different platforms
+- `Dynamic Memory Allocation`: Code snippets showcasing dynamic memory allocation and deallocation.
+- `Online platform problem solving`: Codes related to problem solutions on different platforms.
 
 ##  Contributing
 
