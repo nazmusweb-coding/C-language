@@ -7,6 +7,7 @@ Welcome to the C-Language repository! This repository is a collection of C code 
 - [Getting Started](#getting-started)
 - [Code Structure](#code-structure)
 - [Contributing](#contributing)
+- [Usage](#usage)
 - [Questions](#questions)
 - [License](#license)
 
@@ -39,7 +40,7 @@ The repository is organized into folders, each dedicated to a specific C program
 Contributions are welcome! If you'd like to contribute, follow these steps:
 
 1. **Fork the Repository:**
-   - At first you have to click on [Fork](https://github.com/nazmusweb-coding/C-language/fork) option to fork the repository
+   - At first, you have to click on [Fork](https://github.com/nazmusweb-coding/C-language/fork) option to fork the repository
      
    ![tempsnip](https://github.com/nazmusweb-coding/C-language/assets/120430981/2e6b7640-f396-4d6a-8d55-6ab4f352352d)
 
@@ -71,6 +72,10 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
    - Open a pull request on GitHub.
 
 Please follow the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for more details.
+
+## Usage
+
+If you find a code snippet or example that you want to use, simply navigate to the relevant folder and copy the code. You are free to use, modify, and integrate the code into your projects.
 
 ##  Questions
 
