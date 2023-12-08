@@ -39,30 +39,34 @@ The repository is organized into folders, each dedicated to a specific C program
 Contributions are welcome! If you'd like to contribute, follow these steps:
 
 1. **Fork the Repository:**
+
+   ![tempsnip](https://github.com/nazmusweb-coding/C-language/assets/120430981/3071fe5e-7d24-422c-8c5c-4468528b7218)
+
+3. **Clone it to your local:**
    ```bash
    git clone https://github.com/your-username/C-language.git
    ```
-2. **Make necessary changes:**
+4. **Make necessary changes:**
    - Add, remove, or change what you think is necessary.
    - You can change any incorrect information or details in this repository.
    - You can make changes by adding additional resources (new topics, various online platforms's problem-set solutions) related to C.
    - You can also make changes to solve the problems described in the [Issues](https://github.com/nazmusweb-coding/C-language/issues).
 
-3. **Create a new branch for your feature:**
+5. **Create a new branch for your feature:**
    ```bash
    git checkout -b feature-name.
    ```
-4. **Commit your changes:**
+6. **Commit your changes:**
    ```bash
    git commit -m 'Add new feature'.
    ```
    > :bulb: **Tip**: Keep your commits well-organized and meaningful by grouping related changes, using clear present-tense commit messages, and providing context to make collaboration smoother.
    
-5. **Push to the branch:**
+7. **Push to the branch:**
    ```bash
    git push origin feature-name.
    ```
-6. **Submit a Pull Request:**
+8. **Submit a Pull Request:**
    - Open a pull request on GitHub.
 
 Please follow the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for more details.
