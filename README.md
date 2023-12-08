@@ -45,7 +45,7 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 2. **Make necessary changes:**
    - Add, remove, or change what you think is necessary.
    - You can change any incorrect information or details in this repository.
-   - You can make changes by adding additional resources (new topics, various online platform's problem-set solutions) related to C.
+   - You can make changes by adding additional resources (new topics, various online platforms's problem-set solutions) related to C.
    - You can also make changes to solve the problems described in the [Issues](https://github.com/nazmusweb-coding/C-language/issues).
 
 3. **Create a new branch for your feature:**
@@ -56,6 +56,8 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
    ```bash
    git commit -m 'Add new feature'.
    ```
+   > :bulb: **Tip**: Keep your commits well-organized and meaningful by grouping related changes, using clear present-tense commit messages, and providing context to make collaboration smoother.
+   
 5. **Push to the branch:**
    ```bash
    git push origin feature-name.
