@@ -39,8 +39,9 @@ The repository is organized into folders, each dedicated to a specific C program
 Contributions are welcome! If you'd like to contribute, follow these steps:
 
 1. **Fork the Repository:**
-
-   ![tempsnip](https://github.com/nazmusweb-coding/C-language/assets/120430981/3071fe5e-7d24-422c-8c5c-4468528b7218)
+   - At first you have to click on [Fork](https://github.com/nazmusweb-coding/C-language/fork) option to fork the repository
+     
+   ![tempsnip](https://github.com/nazmusweb-coding/C-language/assets/120430981/2e6b7640-f396-4d6a-8d55-6ab4f352352d)
 
 3. **Clone it to your local:**
    ```bash
