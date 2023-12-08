@@ -71,6 +71,14 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 8. **Submit a Pull Request:**
    - Open a pull request on GitHub.
 
+   ![tempsnip1](https://github.com/nazmusweb/C-language/assets/120430981/da0266d9-c59e-4b56-a4cd-97bcb341a779)
+
+   - Write proper details about what you have changed (fill in the title and description) and create a pull request on GitHub.
+  
+   ![Full](https://github.com/nazmusweb/C-language/assets/120430981/2d65e179-3179-4a16-879a-0a6a1ae088f9)
+
+
+
 Please follow the [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for more details.
 
 ## Usage
