@@ -40,14 +40,15 @@ The repository is organized into folders, each dedicated to a specific C program
   I want to make contributing to this project as easy and transparent as
   possible. By contributing to C-language, you agree that your contributions will be licensed
   under the LICENSE file in the root directory of this source tree.
+
+  If you would like to learn more about how to contribute, please refer to the [CONTRIBUTING.md](https://github.com/nazmusweb-coding/C-language/blob/main/CONTRIBUTING.md) file for detailed instructions.
   
   ### Pull Requests
   I actively welcome your pull requests.
   
   1. Fork the repo and create your branch from `main`.
-  2. If you want to know in detail how to contribute check out [CONTRIBUTING.md](https://github.com/nazmusweb-coding/C-language/blob/main/CONTRIBUTING.md)
-  3. If you've added code that should be tested, add tests.
-  4. Ensure the test suite passes.
+  2. If you've added code that should be tested, add tests.
+  3. Ensure the test suite passes.
   
   ### Issues
   I use GitHub issues to track public bugs and other problems. Please ensure your description is
