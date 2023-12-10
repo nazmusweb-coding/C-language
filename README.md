@@ -35,7 +35,7 @@ The repository is organized into folders, each dedicated to a specific C program
 - `Dynamic Memory Allocation`: Code snippets showcasing dynamic memory allocation and deallocation.
 - `Online platform problem solving`: Codes related to problem solutions on different platforms.
 
-#  Contributing to C-language
+#  Contributing
 
 Contributions are welcome! If you'd like to contribute, follow these steps:
 
